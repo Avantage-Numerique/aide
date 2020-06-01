@@ -43,14 +43,14 @@
 
 ## Logiciels
 
-### Git
+### Travailler avec Git
 - [Git](https://git-scm.com/)
 - [TortoiseGit](https://tortoisegit.org/) windows
 - [Github Desktop](https://desktop.github.com/) mac/windows
-- [Bonobo git Server](https://bonobogitserver.com/) hébergé par soit même
-- [Git bucket](https://gitbucket.github.io/) hébergé par soit même
 
-### Hébergement Git
+### Héberger ses répertoires Git
 - [GitHub](https://github.com)
 - [Gitlab](https://about.gitlab.com/)
 - [Bitbucket](https://bitbucket.com)
+- [Bonobo git Server](https://bonobogitserver.com/) hébergé par soit même
+- [Git bucket](https://gitbucket.github.io/) hébergé par soit même
