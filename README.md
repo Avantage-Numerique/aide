@@ -16,3 +16,4 @@ Avantage numérique est une communauté ouverte et inclusive, qui intègre les s
 Vous avez besoin d'aide sur différent projet.
 
 - [Git et ses outils](sujets/git.md)
+- [La vidéo](sujets/videos.md)
