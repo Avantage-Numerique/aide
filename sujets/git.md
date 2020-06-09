@@ -23,7 +23,6 @@
 
  `1` source [Maîtriser l'essentiel de Git en quelques minutes, 30.05.2019, Joël Buchs, consulté le 2020-05-22](https://karac.ch/blog/maitriser-essentiel-de-git-en-quelques-minutes)
 
----
 
 ## Github
 

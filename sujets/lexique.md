@@ -61,6 +61,9 @@ L’intelligence d’affaires regroupe toutes les méthodologies et tous les out
 
 **Markdown** Syntaxe utiliser dans les fichier de type `*.md`, format par défault dans la base d'un répertoire git, sous le nom `README.md`
 
+`1` source [Maîtriser l'essentiel de Git en quelques minutes, 30.05.2019, Joël Buchs, consulté le 2020-05-22](https://karac.ch/blog/maitriser-essentiel-de-git-en-quelques-minutes)
+
+
 ## Lexiques tiers
 
 - [Lexique de Culture Numérique](http://culturenumeriqc.qcnum.com/lexique/) (**Pratique avec recherche**)
