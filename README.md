@@ -5,15 +5,18 @@ Avantage numérique est une communauté ouverte et inclusive, qui intègre les s
 - [Voir les formations actives](https://avantagenumerique.org/formations/)
 
 
------
 # Projets
+(Structure non définitive)
 - [Hub Avantage Numérique](projets/hub.md)
-- [Hub Avantage Numérique virtuel](projets/hub.md)
+    - [Hub physique Avantage Numérique](projets/hub-physique.md)
+    - [Hub virtuel Avantage Numérique](projets/hub-virtuel.md)
+        - [Base de données ouverte et liée](projets/base-de-donnees-ouverte-et-liee.md)
 
------
+
 # Ressources et tutoriels
 
 Vous avez besoin d'aide sur différent projet.
 
+- [Lexique](sujets/lexique.md)
 - [Git et ses outils](sujets/git.md)
 - [La vidéo](sujets/videos.md)

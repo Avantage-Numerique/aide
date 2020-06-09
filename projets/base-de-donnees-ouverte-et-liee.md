@@ -30,4 +30,3 @@ Mutualisation fermée vs mutualisation ouverte et liée
 ### Premiers acteurs
 
 ### Entité potentiel pour ajouter de la valeur au données
--
