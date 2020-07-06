@@ -14,6 +14,8 @@ Types de base de donnnées ([Source](https://www.base-de-donnees.com/comprendre-
 - Les bases de données réseau
 - Les bases de données relationnelles
 - Les bases de données objet
+- Base de données sémantique *Semantic Graph Database*
+- LPG - Label property graph
 
 **SQL** : Structured Query Language
 
@@ -63,6 +65,12 @@ L’intelligence d’affaires regroupe toutes les méthodologies et tous les out
 
 `1` source [Maîtriser l'essentiel de Git en quelques minutes, 30.05.2019, Joël Buchs, consulté le 2020-05-22](https://karac.ch/blog/maitriser-essentiel-de-git-en-quelques-minutes)
 
+
+## Acronymes
+
+- **RDBMS** : *relational database management system* (« système de gestion de base de données relationnelle »). Sur le modèle de DBMS. [source Wiktionary](https://fr.wiktionary.org/wiki/RDBMS)
+- **LPG** : Label property graph, qui se veut une suite à **RDF**
+- **RDF** : Resource Description Framework [source wikipedia](https://fr.wikipedia.org/wiki/Resource_Description_Framework)
 
 ## Lexiques tiers
 
