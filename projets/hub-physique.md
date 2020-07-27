@@ -1,4 +1,4 @@
-[Accueil](/README.md) &rarr; Hub physique
+[Accueil]() &rarr; Hub physique
 
 # Hub physique Avantage Numérique
 

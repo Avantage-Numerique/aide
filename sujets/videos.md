@@ -1,4 +1,4 @@
-[Accueil](/README.md) &rarr; Vidéos
+[Accueil]() &rarr; Vidéos
 
 # Aide pour la vidéo
 
