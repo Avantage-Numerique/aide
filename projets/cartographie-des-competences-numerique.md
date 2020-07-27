@@ -1,4 +1,4 @@
-[Accueil]() &rarr; Cartographie des compétences numérique
+[Accueil](../) &rarr; Cartographie des compétences numérique
 
 # Cartographie des compétences numérique
 

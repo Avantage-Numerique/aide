@@ -1,4 +1,4 @@
-[Accueil]() &rarr; Vidéos
+[Accueil](../) &rarr; Vidéos
 
 # Aide pour la vidéo
 

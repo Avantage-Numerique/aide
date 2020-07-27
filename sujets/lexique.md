@@ -1,4 +1,4 @@
-[Accueil]() &rarr; Lexique
+[Accueil](../) &rarr; Lexique
 
 # Lexique
 

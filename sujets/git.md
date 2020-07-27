@@ -1,4 +1,4 @@
-[Accueil]() &rarr; Git
+[Accueil](../) &rarr; Git
 
 # Git et ses outils
 

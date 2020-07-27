@@ -1,3 +1,3 @@
-[Accueil]() &rarr; Hub virtuel
+[Accueil](../) &rarr; Hub virtuel
 
 # Hub virtuel Avantage Numérique
