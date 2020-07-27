@@ -1,1 +1,17 @@
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - base-de-donnees.md
+  - git.md
+  - lexique.md
+  - videos.md
+  - base-de-donnees-ouverte-et-liee.md
+  - cartographie-des-competences-numerique.md
+  - hub-physique.md
+  - hub-virtuel.md
+  - hub.md
