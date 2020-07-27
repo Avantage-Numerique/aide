@@ -1,4 +1,4 @@
-[Accueil](README.md) &rarr; Lexique
+[Accueil](/README.md) &rarr; Lexique
 
 # Lexique
 

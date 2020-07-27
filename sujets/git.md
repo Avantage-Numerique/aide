@@ -1,4 +1,4 @@
-[Accueil](README.md) &rarr; Git
+[Accueil](/README.md) &rarr; Git
 
 # Git et ses outils
 

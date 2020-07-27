@@ -1,4 +1,4 @@
-[Accueil](README.md) &rarr; Cartographie des compétences numérique
+[Accueil](/README.md) &rarr; Cartographie des compétences numérique
 
 # Cartographie des compétences numérique
 
