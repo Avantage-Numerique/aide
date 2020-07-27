@@ -1,7 +1,9 @@
+[Accueil](README.md) &rarr; Cartographie des compétences numérique
 
-Structure opensource intéressante :
+# Cartographie des compétences numérique
 
-https://en.wikipedia.org/wiki/Open_Semantic_Framework
+## Architecture intéressante
 
-
-DBPedia : Databus
+### Open source
+- https://en.wikipedia.org/wiki/Open_Semantic_Framework
+- DBPedia : Databus

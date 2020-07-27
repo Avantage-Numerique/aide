@@ -1,3 +1,5 @@
+[Accueil](README.md) &rarr; Lexique
+
 # Lexique
 
 ## Table des matières

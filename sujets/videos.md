@@ -1,3 +1,5 @@
+[Accueil](README.md) &rarr; Vidéos
+
 # Aide pour la vidéo
 
 ## Sur le web
