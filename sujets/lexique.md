@@ -2,6 +2,8 @@
 
 # Lexique
 
+[Le lexique d'Avantage Numérique](https://avantagenumerique.org/lexique-du-numerique/)
+
 ## Table des matières
 - [Données](#donnees)
 - [Git et Github](#git-et-github)
@@ -20,6 +22,9 @@ Types de base de donnnées ([Source](https://www.base-de-donnees.com/comprendre-
 - LPG - Label property graph
 
 **SQL** : Structured Query Language
+Langage de requête afin d'obtenir une *collection* selon une liste de critères et commande de classement pour les afficher ou les utiliser dans un autre contexte : site web, graphique, etc.
+
+**Collection** ensemble de lignes regroupant les valeurs regrouper venant de la base de données suite à une requête (SQL ou autre).
 
 **RDF** : est un modèle de graphe destiné à décrire formellement les ressources Web et leurs métadonnées, afin de permettre le traitement automatique de telles descriptions. Développé par le W3C, RDF est le langage de base du Web sémantique. L'une des syntaxes (ou sérialisations) de ce langage est RDF/XML. D'autres syntaxes de RDF sont apparues ensuite, cherchant à rendre la lecture plus compréhensible ; c'est le cas par exemple de Notation3 (ou N3). [**Source**](https://fr.wikipedia.org/wiki/Resource_Description_Framework)
 
