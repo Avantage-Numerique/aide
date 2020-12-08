@@ -45,4 +45,3 @@ La mise en ligne de cet outil augmentera la découvrabilité, la visibilité, ai
 ## Livrables selon les objectifs
 
 [Liste d'éléments à implémenter](https://airtable.com/shr8s0mJxtp9Pqkjj)
-<iframe class="airtable-embed" src="https://airtable.com/embed/shr8s0mJxtp9Pqkjj?backgroundColor=green&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
