@@ -78,6 +78,7 @@ L’intelligence d’affaires regroupe toutes les méthodologies et tous les out
 - **RDBMS** : *relational database management system* (« système de gestion de base de données relationnelle »). Sur le modèle de DBMS. [source Wiktionary](https://fr.wiktionary.org/wiki/RDBMS)
 - **LPG** : Label property graph, qui se veut une suite à **RDF**
 - **RDF** : Resource Description Framework [source wikipedia](https://fr.wikipedia.org/wiki/Resource_Description_Framework)
+- **URL** : Une URL, couramment appelée adresse web, est une chaîne de caractères uniforme qui permet d'identifier une ressource du World Wide Web par son emplacement et de préciser le protocole internet pour la récupérer. [Uniform Resource Locator - Wikipedia](https://fr.wikipedia.org/wiki/Uniform_Resource_Locator)
 
 ## Lexiques tiers
 
