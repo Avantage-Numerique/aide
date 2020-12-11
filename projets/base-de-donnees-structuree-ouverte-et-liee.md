@@ -1,6 +1,6 @@
 [Accueil](../) &rarr; Base de données structurée, ouverte et liée
 
-*Version 1.4, 2020-12-07*
+*Version 1.4.1, 2020-12-11*
 # Base de données structurée, ouverte et liée
 
 Établir une base de données structurées, ouvertes et liées (*BDSOL*) qui recense et géolocalise dans le Croissant Boréal les talents, compétences, équipements, initiatives techno-créatives et apprentissages.
