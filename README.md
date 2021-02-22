@@ -10,7 +10,7 @@ Avantage numérique est une communauté ouverte et inclusive, qui intègre les s
 - [Hub Avantage Numérique](projets/hub.md)
     - [Hub physique Avantage Numérique](projets/hub-physique.md)
     - [Hub virtuel Avantage Numérique](projets/hub-virtuel.md)
-        - [Base de données structurée ouverte et liée (*DBSOL*)](projets/base-de-donnees-structuree-ouverte-et-liee.md)
+        - [Base de données structurée ouverte et liée (*DBSOL*)](https://github.com/Avantage-Numerique/bdsol)
 
 
 # Ressources et tutoriels
